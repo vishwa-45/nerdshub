@@ -1,3 +1,6 @@
 echo "hello git"
 echo "git is user frinedly"
 echo"git devops session"
+ech "Changed by thiyagarajan"
+echo "Devops training,git version control system."  
+echo "new line by viz"
